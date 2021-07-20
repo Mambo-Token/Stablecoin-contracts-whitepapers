@@ -1,3 +1,4 @@
+$MAMBO is the utility rewards token for the Mambo stablecoin projects. $Mambo itself is not a stablecoin.
 This is an example of a zrc-2 Token with only the burning funcionality, no minting.
 It respects the Mambo Token Security Standard: https://mambo.li/mambo-infos/mtss .
 This means, only contract owner or delegated burner can burn tokens, and he can only burn tokens out of his account.
