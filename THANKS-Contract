@@ -1,5 +1,6 @@
 scilla_version 0
-(** Thanks, Thank You is a limited stablecoin edition from mambo **)
+
+(** Thanks, Thank You is a limited stablecoin edition from mambo project **)
 (** a zrc-2 contract with burning only function, minting not possible **)
 (** according to mambo token security standard mtss for burning **)
 (** Burning only from MinterBurners account possible **)
