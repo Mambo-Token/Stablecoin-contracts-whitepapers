@@ -23,6 +23,12 @@ THANKS, Thank You: zil14mh5kzrdh3c0hya8n7t77cr6aq9a7mc43mxm0w
 
 <BR> $CHRISTMAS: zil16drwuehhueel65kycl8w78zthz2ydjjagpjy9m
 0xd346ee66f7e673fd52c4c7ceef1c4bb89446ca5d
-
+<BR>
+$MiniBTC, Mini BITCOIN contract address: zil1tma2udq07t9yddru4aus7ql7p5p29eneptx4jc
+<BR>
+$LIBERTY, GOLD Stablecoin contract Address: zil18w5yektqu7938727ldx9x87gxzrsu7stz6hqq4
+<BR>
+$007, 007 BOND Contract Address: zil1cx2ealcdx64d4qm92yvekceffkxgtxr2uhxh98  
+  
 others in Pipeline. <br>
 Information on https://mambo.li
